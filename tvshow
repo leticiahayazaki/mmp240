@@ -23,21 +23,29 @@ the game focuses on two playable characters in a post-apocalyptic United States 
 </nav>
 <main>
 
-<h2> The Last of Us 2</h2>
+<h3> The Last of Us 2</h3>
 <div class="col col-left"></div>
 <p> 2020,<span class="ps4">PS4</span>, 1 Season </p>
 <p>The Last of Us Part II takes place five years after the events of the first game and nearly 25 years after the outbreak of
 the Cordyceps brain infection began. Ellie, who is now 19 years old, returns as the protagonist whom players assume control of. 
 Joel, in his mid-fifties, also returns as a playable character, as does Abby Anderson, who functions as the game's false protagonist.</p>
 
-
 </div>
 <div class="col col-right"></div>
+  <div class="show-info">
 <h3>Creator</h3>
 <p>Jacob Mikoff</p>
+</div>
+<div class="show-info">
+
 <h3>Cast</h3>
 <p> Ashley Johnson, Laura Bailey, Derek Phillips,Jeffrey Pierce, Stephen Chang</p>
+</div>
+<div class="show-info">
+<h3>Genreee: </h3>
+<p>Horror, Gameplay</p>
 
+</div>
 </div>
 </main>
 <footer></footer>
