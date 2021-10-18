@@ -1,0 +1,26 @@
+
+body{font-family:'Jost', sans-serif;
+    font-size:1.125rem;
+    line-height:1.6em;
+    width:960px;
+    margin-left:auto;
+    margin-right:auto;
+    border:groove 2px #e75480;
+    padding:1em;
+    border-radius:20px}
+
+h1,h2,h3{font-family: 'Jost',sans-seri;}
+h1{color: #E75480;}
+h2{color: #E75480;}
+h3{color:   #E75480;}
+h4{color: #800080;
+  margin-left:3em;}
+  h1{font-size:2....5rem;
+      margin-bottom:1em;}
+    li{margin-bottom:1em;}
+    h2{margin-top:1em;}
+
+    img{border:groove:grey;}
+    div{max-width:1000px;
+    background-color: #DD3D3;
+    border:double;}/*
