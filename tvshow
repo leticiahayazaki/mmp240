@@ -9,7 +9,7 @@
 
 <!-- page starts -->
  <div id="wrapper">
- 
+
  <!-- page header -->
 <header>
 <h1><img src="images/thelastofus.jpg" alt="The Last of us 2"></h1>
@@ -34,7 +34,7 @@ the game focuses on two playable characters in a post-apocalyptic United States 
 <div class="col col-left"></div>
 <p> 2020,<span class="ps4">PS4</span>, 1 Season </p>
 <p>The Last of Us Part II takes place five years after the events of the first game and nearly 25 years after the outbreak of
-the Cordyceps brain infection began. Ellie, who is now 19 years old, returns as the protagonist whom players assume control of. 
+the Cordyceps brain infection began. Ellie, who is now 19 years old, returns as the protagonist whom players assume control of.
 Joel, in his mid-fifties, also returns as a playable character, as does Abby Anderson, who functions as the game's false protagonist.</p>
 
 </div> <!-- closing .col-left -->
@@ -49,7 +49,7 @@ Joel, in his mid-fifties, also returns as a playable character, as does Abby And
 <p> Ashley Johnson, Laura Bailey, Derek Phillips,Jeffrey Pierce, Stephen Chang</p>
 </div> <!-- closing .show-info 2 -->
 <div class="show-info">
-<h3>Genreee: </h3>
+<h3>Genre: </h3>
 <p>Horror, Gameplay</p>
 
 </div> <!-- closing .show-info 3 -->
@@ -60,5 +60,3 @@ Joel, in his mid-fifties, also returns as a playable character, as does Abby And
  <!-- page ends -->
 </body>
 </html>
-
-
