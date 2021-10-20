@@ -1,0 +1,26 @@
+
+body{
+  font-family: sans-serif;;}
+
+/*ID selector- selects an html element by its ID*/
+#wrapper{
+  max-width:1200px;
+}
+
+header{
+/*  background-image: url("images/thelastofus.png");
+  background-repeat: no-repeat;
+  background-position: top right;*/
+
+  background: linear-gradient(90deg, rgba(2,0,36,1) 45%, rgba(15,15,139,1) 87%);
+  url("images/thelastofuscover.png") no-repeat top right, black;
+  padding:2em;
+  height:300px;
+
+
+}
+
+/* Descendent selector- in this case it selects an image inside an h1 element*/
+
+h1 img{
+  max-width:100%;}
